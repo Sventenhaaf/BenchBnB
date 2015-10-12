@@ -9,7 +9,7 @@ window.Index = React.createClass({
 
   componentDidMount: function(){
     BenchStore.addChangeListener(this._onChange);
-    ApiUtil.fetchBenches();
+
   },
 
   render: function () {

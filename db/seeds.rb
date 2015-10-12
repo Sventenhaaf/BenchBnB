@@ -9,12 +9,12 @@ Bench.create([
   {
     description: 'app Academy',
     lat: 37.7833,
-    lng: 122.4167
+    lng: -122.4167
   },
   {
     description: 'SomethingSomething',
-    lat: 36.3333,
-    lng: 121.1234
+    lat: 37.7822,
+    lng: -122.4154
   }
 ]
 
